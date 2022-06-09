@@ -1,4 +1,4 @@
-# <center>Flight delay prediction in JFK airport using machine learning classifiers</center>
+# <center>Flight delay prediction in JFK airport using machine learning classifiers (98% accuracy, 94% f1-score)</center>
 This repository contains the following files:
 - flight_delays.ipynb (notebook of the project)
 - JFK_dep_data.csv (dataset containing JFK departures details)
